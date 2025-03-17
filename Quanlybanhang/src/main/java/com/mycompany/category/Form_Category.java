@@ -7,7 +7,7 @@ import java.awt.Font;
 import javax.swing.SwingConstants;
 import java.awt.Dimension;
 import javax.swing.*;
-hello
+
 import java.awt.*;
 
 public class Form_Category extends JPanel {
